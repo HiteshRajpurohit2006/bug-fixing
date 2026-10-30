@@ -9,4 +9,4 @@ A program that averages a crew's bounties had two bugs. Cursor AI helped find an
 
 Files: `buggy_code.py` (before) and `fixed_code.py` (after).
 
-**Author:** Raghav Gattani
+**Author:** Hitesh
